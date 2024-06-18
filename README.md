@@ -1,2 +1,3 @@
 # M2TW-TextSoundFiles
-M2TW-TextSoundFiles by RiritoNinigaya(Fork from Creative Assembly Team)
+
+This is fork for Medieval 2 Total War(Sounds Scripts)... So Enjoy to Use This!!!
